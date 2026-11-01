@@ -8,16 +8,14 @@ Stakeholder Orbits is a small tool for project and programme managers. You score
 
 ## Use it
 
-**Download and run it on your own computer**
+**[Download page: inhabitedisland.github.io/stakeholder-orbits](https://inhabitedisland.github.io/stakeholder-orbits/)**
 
-1. Download [`stakeholder-orbits.html`](stakeholder-orbits.html) (open the file, then use the download button).
-2. Double-click it. It opens in your browser.
+1. Click **Download the tool** on that page.
+2. Double-click the downloaded file. It opens in your browser.
 
-That's it. No installation, no account, no internet connection needed. It works best on a laptop or desktop.
+That's it. No installation, no account, no internet connection needed. It works best on a laptop or desktop. The same page also lets you try the tool in your browser before downloading.
 
-**Or try it in your browser**
-
-If GitHub Pages is switched on for this repository, the same file runs at the repository's Pages address. It behaves exactly like the downloaded copy.
+You can also download [`stakeholder-orbits.html`](stakeholder-orbits.html) straight from this repository: open the file, then use the download button.
 
 ## Privacy
 
